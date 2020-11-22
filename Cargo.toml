@@ -1,0 +1,11 @@
+[package]
+name = "tiny-todo"
+version = "0.1.0"
+authors = ["Shubhadeep Roychowdhury <shubhadeeproychowdhury@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tui = "0.12"
+termion = "1"
